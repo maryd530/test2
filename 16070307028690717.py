@@ -5,3 +5,4 @@ for x in range(2,number):
         break
 else :
     print('prime')
+print('good luck')
