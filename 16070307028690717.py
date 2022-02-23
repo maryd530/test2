@@ -6,3 +6,5 @@ for x in range(2,number):
 else :
     print('prime')
 print('good luck')
+
+print("branch")
